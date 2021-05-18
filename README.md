@@ -10,9 +10,11 @@ Folder structure:
 	* Project details.pdf - Project report
   
 2. src
-	* BColourObjectDetectorApp - complete project code of eclipse CDT 
+	* cpp files and one image file
+3. include
+        * header file
 
-3. test
+4. test
   	* colorObjects.jpg - original RGB image used for test purpose
   	* blue colour object detected.png - test results
   	* green colour object detected.png - test results
