@@ -11,8 +11,9 @@ Folder structure:
   
 2. src
 	* cpp files and one image file
+	
 3. include
-        * header file
+        * header file 
 
 4. test
   	* colorObjects.jpg - original RGB image used for test purpose
